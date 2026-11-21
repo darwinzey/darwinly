@@ -1,0 +1,32 @@
+{
+ "name": "Mini Zaferler",
+ "short_name": "Zaferler",
+ "description": "Küçük adımları kutlayan görev ve hedef uygulaması",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F7F0FF",
+ "theme_color": "#F7F0FF",
+ "lang": "tr",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
